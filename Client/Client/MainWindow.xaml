@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Dirección IP del Servidor:"/>
+            <TextBox x:Name="txtServerIP" Margin="0,0,0,10"/>
+
+            <Label Content="Puerto del Servidor:"/>
+            <TextBox x:Name="txtServerPort" Margin="0,0,0,10"/>
+
+            <Label Content="Posición (Fila):"/>
+            <TextBox x:Name="txtFila" Margin="0,0,0,10"/>
+
+            <Label Content="Posición (Columna):"/>
+            <TextBox x:Name="txtColumna" Margin="0,0,0,10"/>
+
+            <Button Content="Enviar Respuesta" Width="120" Height="30" Click="btnEnviar_Click" Margin="0,0,0,10"/>
+
+            <Label Content="Historial:"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Height="150">
+                <TextBlock x:Name="txtHistorico" TextWrapping="Wrap"/>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>

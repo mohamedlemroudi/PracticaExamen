@@ -1,0 +1,14 @@
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.AssemblyInfoInputs.cache
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.AssemblyInfo.cs
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.csproj.CoreCompileInputs.cache
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\bin\Debug\net8.0\SincrProcessosExamen.exe
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\bin\Debug\net8.0\SincrProcessosExamen.deps.json
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\bin\Debug\net8.0\SincrProcessosExamen.runtimeconfig.json
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\bin\Debug\net8.0\SincrProcessosExamen.dll
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\bin\Debug\net8.0\SincrProcessosExamen.pdb
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.dll
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\refint\SincrProcessosExamen.dll
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.pdb
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\SincrProcessosExamen.genruntimeconfig.cache
+C:\Users\Moha\Desktop\SincrProcessosExamen\SincrProcessosExamen\obj\Debug\net8.0\ref\SincrProcessosExamen.dll
